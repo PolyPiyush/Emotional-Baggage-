@@ -1,0 +1,8 @@
+{
+  "name": "Remix: KINETIC",
+  "description": "A premium, modern, gamified mobile productivity app combining Notion, Forest, Habitica, and Anime Mentor Systems under strict discipline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
